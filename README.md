@@ -1,13 +1,13 @@
 ### Hi there 👋![ladder_purple_light_118353_3840x2400](https://github.com/Mrskydriver/Mrskydriver/assets/99725834/7e3b171f-78e0-4154-bfa7-a55384421de1)
-
+- 🔭 I’m currently working at Stadler Rheintal as Project Manager
+- 🌱 I’m currently learning Java and VBA
 
 <!--
 **Mrskydriver/Mrskydriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at Stadler RJeintal
-- 🌱 I’m currently learning Java and VBA
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
